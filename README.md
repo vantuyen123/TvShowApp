@@ -10,7 +10,7 @@ Technical Information used in this project:
 
 1. Programming Language: **Android Kotlin**.
 2. Architecture: **MVVM architecture** based on **Android Jetpack**.
-3. Android Components: (**Navigation**, **ViewModel**, **LiveData**, **Data Binding**, **Lifecycles**, **Android Material Design**,...).
+3. Android Components: (**Navigation**, **ViewModel**, **LiveData**, **Data Binding**,**Paging 3,0**, **Lifecycles**, **Android Material Design**,...).
 4. Multiple Threads: **Kotlin Coroutine**.
 5. Third Party Libraries: **Glide**, **Retrofit**,**Moshi**,...
 6. [ScreenShots]()
