@@ -62,7 +62,7 @@ Screenshots
 
 Reference UI: [MVVM TVSHOW](https://www.youtube.com/playlist?list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK)
 
-App demo: 
+App demo: [TvShowApp](https://youtu.be/ERIRk7F3hcc)
 
 License
 -------
